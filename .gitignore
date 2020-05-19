@@ -3,4 +3,4 @@
 local.properties
 
 # Ignore the generated codelab folder and files
-codelab/Android-Kotlin-Bottom-Navigation
+codelab/Android-Kotlin-Drawer-Navigation
